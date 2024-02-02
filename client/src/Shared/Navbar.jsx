@@ -13,7 +13,7 @@ const Navbar = () => {
         <div className="bg-white/80 shadow-md fixed top-0 w-full z-40 ease-in duration-300 backdrop-blur-md">
             <div className="py-3 px-10 sm:px-4 md:px-6 lg:px-6 container mx-auto">
                 <div className="flex items-center justify-between">
-                    <img src={Logo} alt="" className='h14 cursor-pointer' />
+                    <img src={Logo} alt="" className='h-14 cursor-pointer' />
 
                     <div className="lg:flex hidden gap-8 items-center">
                         <a href="" className="text-[#191919] text-xl font-medium hover:text-red-500">Home</a>
